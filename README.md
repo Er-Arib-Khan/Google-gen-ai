@@ -90,9 +90,6 @@ Real-Time Search and Info Retrieval
 
 External API Integration
 
-📚 Future Enhancements
-Voice-based interaction
 
-GUI using Streamlit or Flask
 
 PDF or image summarization
